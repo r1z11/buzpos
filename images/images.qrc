@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/new/login">
+        <file>icons/Dialog-Apply-64.png</file>
+        <file>icons/Gnome-Process-Stop-64.png</file>
+        <file>icons/Gnome-System-Users-64.png</file>
+        <file>icons/User-Info-64.png</file>
+    </qresource>
+    <qresource prefix="/new/general">
+        <file>icons/Gnome-Edit-Find-64.png</file>
+        <file>icons/Gnome-Accessories-Calculator-64.png</file>
+        <file>icons/Gnome-Dialog-Error-64.png</file>
+        <file>icons/Gnome-Emblem-Default-64.png</file>
+        <file>icons/Gnome-Folder-Saved-Search-64.png</file>
+        <file>icons/Gnome-List-Add-64.png</file>
+        <file>icons/Gnome-List-Remove-64.png</file>
+        <file>icons/Gnome-Logviewer-64.png</file>
+        <file>icons/Gnome-Process-Stop-64.png</file>
+        <file>icons/Gnome-System-Log-Out-64.png</file>
+        <file>icons/Gnome-System-Run-64.png</file>
+        <file>icons/Gnome-System-Search-64.png</file>
+        <file>icons/Gnome-View-Refresh-64.png</file>
+        <file>icons/Gnome-Window-Close-64.png</file>
+        <file>icons/Gnome-Zoom-Fit-Best-64.png</file>
+        <file>icons/Emblem-Money-64.png</file>
+        <file>icons/Gnome-Accessories-Text-Editor-64.png</file>
+        <file>icons/Gnome-Dialog-Password-64.png</file>
+        <file>icons/Gnome-Edit-Clear-64.png</file>
+        <file>icons/Gnome-Edit-Delete-64.png</file>
+        <file>icons/Gnome-Preferences-System-64.png</file>
+        <file>icons/Gnome-X-Office-Presentation-64.png</file>
+        <file>icons/Gnome-System-Help-64.png</file>
+        <file>icons/Gnome-Help-About-64.png</file>
+        <file>icons/Gnome-Help-Browser-64.png</file>
+        <file>icons/Gnome-Help-Contents-64.png</file>
+        <file>icons/Gnome-Help-Faq-64.png</file>
+    </qresource>
+</RCC>

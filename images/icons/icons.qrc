@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/new/general">
+        <file>Gnome-View-Refresh-64.png</file>
+        <file>Gnome-Dialog-Password-64.png</file>
+        <file>Dialog-Apply-64.png</file>
+        <file>Gnome-Media-Playback-Start-64.png</file>
+        <file>Gnome-Media-Playback-Pause-64.png</file>
+        <file>Gnome-Media-Playback-Stop-64.png</file>
+        <file>Gnome-Appointment-New-64.png</file>
+    </qresource>
+    <qresource prefix="/new/menu">
+        <file>Gnome-Go-Home-64.png</file>
+        <file>Gnome-Task-Due-64.png</file>
+        <file>Gnome-Applications-Office-64.png</file>
+        <file>Gnome-Document-Open-64.png</file>
+        <file>Emblem-Money-64.png</file>
+        <file>Gnome-Emblem-Default-64.png</file>
+        <file>Gnome-Applications-Other-64.png</file>
+        <file>Gnome-X-Office-Presentation-64.png</file>
+        <file>Gnome-System-Users-64.png</file>
+        <file>Gnome-System-Run-64.png</file>
+    </qresource>
+</RCC>
